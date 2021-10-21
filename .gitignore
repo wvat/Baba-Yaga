@@ -1,0 +1,5 @@
+# ignore these folders
+resources/
+story/
+simulation/matlab/
+simulation/python/venv/
